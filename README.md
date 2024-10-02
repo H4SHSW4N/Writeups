@@ -1,5 +1,5 @@
 # Writeups
-**```\n
+```\n
                  ,ggg,                                                                                                                                                                                                                                                                                                              
                 dP""8I   ,dPYb,                                                                     ,dPYb,                                        ,dPYb,                                                                              8I                                                                                            
                dP   88   IP'`Yb                                                                     IP'`Yb                                        IP'`Yb                                                                              8I                                                                                            
@@ -16,4 +16,4 @@
                                                                I8   8I                                                                                                               I8   8I                                                       I8   8I                                                                  I8   8I 
                                                                `8, ,8I                                                                                                               `8, ,8I                                                       `8, ,8I                                                                  `8, ,8I 
                                                                 `Y8P"                                                                                                                 `Y8P"                                                         `Y8P"                                                                    `Y8P"  
-**```\n
+```\n
